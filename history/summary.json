@@ -61,9 +61,9 @@
     "url": "https://coccoswim.co/",
     "icon": "https://icons.duckduckgo.com/ip3/coccoswim.co.ico",
     "slug": "coccoswim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.73%",
@@ -73,6 +73,7 @@
     "timeMonth": 644,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2022-10-28": 0,
       "2022-10-17": 225
     }
   }
